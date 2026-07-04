@@ -1,0 +1,1 @@
+This installer is not an official toolchain Zig installer.
