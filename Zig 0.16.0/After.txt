@@ -1,1 +1,0 @@
-Don't forget to add the path to Zig to the environment variables.
