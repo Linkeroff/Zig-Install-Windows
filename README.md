@@ -6,9 +6,9 @@ Documentation in two languages / Документация на двух язык
 
 The repo contains the Zig language installer version 0.16.0
 
-The installer was made on the basis of Inno, and is focused on Windows x86-64
+The installer was made on the basis of Inno Setup, and is focused on Windows x86-64
 
-The Zig `0.16.0` folder contains the source files of the installer in Inno 7
+The Zig `0.16.0` folder contains the source files of the installer in Inno Setup 7
 
 Guide on how to install the installer:
 1. You must have 7zip installed.
@@ -21,9 +21,9 @@ Guide on how to install the installer:
 
 В репо представлен установщик языка Zig версии 0.16.0
 
-Установщик был сделан на базе Inno, и ориентирован на Windows x86-64
+Установщик был сделан на базе Inno Setup, и ориентирован на Windows x86-64
 
-В папке Zig `0.16.0` находятся исходные файлы установщика в Inno 7
+В папке Zig `0.16.0` находятся исходные файлы установщика в Inno Setup 7
 
 Гайд, как установить установщик:
 1. У вас должен быть установлен 7zip
